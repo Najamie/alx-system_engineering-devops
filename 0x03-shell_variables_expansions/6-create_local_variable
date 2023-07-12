@@ -1,2 +1,2 @@
 #!/bin/bash
-BEST="school"
+BEST="School"; echo "The value of BEST is: $BEST"
